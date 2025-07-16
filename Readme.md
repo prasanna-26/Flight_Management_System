@@ -1,6 +1,6 @@
-# ✈️ Flight Management System
+# Flight Management System ✈️
 
-## 📌 Introduction
+## Introduction
 
 The **Flight Management System** is a mobile-friendly application designed to streamline flight-related tasks for passengers. Users can:
 
@@ -58,7 +58,7 @@ There are **two types of users** in this system:
   - Customer can **monitor** baggage movement
 
 ## 🧱 Table Design and Analysis
-
+<img src = "ER_Diagram.jpg">
 The system contains **six main entities** with defined primary and foreign keys:
 
 ### 1. `User`
