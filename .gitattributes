@@ -1,2 +1,2 @@
-*.sqlpro linguist-language=SQL
+*.sqlpro linguist-language=SQLPRO
 *.csv linguist-language=CSV
